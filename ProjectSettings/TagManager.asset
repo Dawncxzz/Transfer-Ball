@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Step
+  - Enemy
+  - Transfer Ball 1
+  - Transfer Ball 2
+  - Transfer Ball 3
+  - CheckPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Player
+  - TransferBall
+  - Enemy
+  - Props
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1491412497
+    locked: 0
+  - name: Player
+    uniqueID: 2634202625
+    locked: 0
+  - name: Collectable
+    uniqueID: 2965707849
+    locked: 0
+  - name: Map
+    uniqueID: 196652251
+    locked: 0
+  - name: TransferBall
+    uniqueID: 559362661
+    locked: 0
+  - name: Enemy
+    uniqueID: 1649440187
+    locked: 0
